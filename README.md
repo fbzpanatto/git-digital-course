@@ -4,4 +4,4 @@
 
 ## Salvando alterações no git 2
 
-### uso do comando git restore
+### uso do comand git restore
